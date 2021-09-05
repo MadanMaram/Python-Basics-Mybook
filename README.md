@@ -10,3 +10,4 @@
 ## chapter 10 - Numpy
 ## chapter 11 - Pandas 
 ## chapter 12 - Matplotlib
+## chapter 13 - sql+pandas
